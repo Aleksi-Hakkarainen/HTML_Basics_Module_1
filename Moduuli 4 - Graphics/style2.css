@@ -1,3 +1,23 @@
 body {
-    background-color:rgb(255, 252, 209);
+    background-color:aliceblue;
+}
+
+.section1 {
+    padding-left: 40px;
+}
+
+.heading1 {
+    border: 5px;
+    border-style: groove;
+    border-color: black;
+    padding-left: 40px;
+    background-color: rgb(255, 252, 209);
+}
+
+.p1 {
+    border: 5px;
+    border-radius: 15px;
+    border-style: solid;
+    background-color: rgb(255, 252, 209);
+    padding-left: 40px;
 }
