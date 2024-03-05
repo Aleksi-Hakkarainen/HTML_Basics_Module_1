@@ -1,0 +1,23 @@
+body {
+    background-color:rgb(255, 252, 209);
+}
+
+.heading1 {
+    border: 3px;
+    border-color: black;
+    border-style: dashed;
+    padding-left: 40px;
+}
+
+.p1{
+    border: 3px;
+    border-color: black;
+    border-style:solid;
+    border-radius: 10px;
+    background-color: aliceblue;
+    padding-left: 40px;
+}
+
+.section1 {
+    padding-left: 40px;
+}
