@@ -1,0 +1,24 @@
+.header {
+    background-color: aqua;
+}
+
+.nav {
+    background-color: rgb(241, 216, 93);
+
+}
+
+.section {
+    background-color: blueviolet;
+}
+
+.aside {
+    background-color: brown;
+}
+
+.article {
+    background-color: red;
+}
+
+.footer {
+    background-color: yellow;
+}
