@@ -1,24 +1,26 @@
-.header {
+body {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
     background-color: aqua;
 }
 
-.nav {
+nav {
     background-color: rgb(241, 216, 93);
 
 }
 
-.section {
+section {
     background-color: blueviolet;
 }
 
-.aside {
-    background-color: brown;
-}
-
-.article {
+article {
     background-color: red;
 }
 
-.footer {
+footer {
     background-color: yellow;
 }
